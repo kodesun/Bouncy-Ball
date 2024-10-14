@@ -9,6 +9,10 @@ and damping applied to the ball observe it's realistic behavior as it bounces ar
 - C++ Compiler
 - CMake (or other linking tool)
 
+# Installation
+- Make sure to have SFML already installed
+- In the project directory run `chmod +x compile.sh` to build and run.
+
 ## Features 
 * **Realistic Physics**: The application incorporates real-world physics principles, mainly gravity and damping. 
 * **Interactive**: Users can interact with the ball by clicking and dragging it around the screen.
@@ -34,4 +38,4 @@ A cooler example of a **_state machine_** design can be viewed in my [Flappy Bir
 ---
 
 Feel free to use this however you like. 
-- [@sudfish](https://github.com/sudfish)
+- [@kodesun](https://github.com/kodesun)
